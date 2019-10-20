@@ -1,0 +1,2 @@
+Athens,Bilbao,Cairo,Detroit,Edinburgh,Firenze
+Athens-Bilbao,Athens-Cairo,Bilbao-Cairo,Bilbao-Detroit,Cairo-Athens,Detroit-Edinburgh,Edinburgh-Firenze,Firenze-Detroit
